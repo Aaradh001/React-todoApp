@@ -4,6 +4,7 @@
 Welcome to the React ToDo App, a simple and intuitive task management application built using React. This application serves as a practical example for learning and understanding React's fundamental concepts, with a specific focus on leveraging three essential hooks: **useState**, **useRef**, and **useEffect**.
 
 **FEATURES**
+---------------------
 
 Add ToDo:          Add new tasks to your ToDo list.
 Update ToDo:       Edit existing tasks to modify details.
@@ -11,6 +12,7 @@ Delete ToDo:       Remove tasks that are no longer needed.
 Mark as Complete:  Easily mark tasks as complete to keep track of your progress.
 
 **Technologies Used**
+----------------------
 
 REACT JS
 HTML/CSS
