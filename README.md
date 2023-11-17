@@ -5,12 +5,14 @@ Welcome to the React ToDo App, a simple and intuitive task management applicatio
 
 **FEATURES**
 <<=======================>>
+
 Add ToDo:          Add new tasks to your ToDo list.
 Update ToDo:       Edit existing tasks to modify details.
 Delete ToDo:       Remove tasks that are no longer needed.
 Mark as Complete:  Easily mark tasks as complete to keep track of your progress.
 
 **Technologies Used**
+
 <---------------->
 REACT JS
 HTML/CSS
