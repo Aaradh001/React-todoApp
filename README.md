@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# My ToDos - React App
 ![image](https://github.com/Aaradh001/React-todoApp/assets/129360494/94e34fed-7366-4a1a-8974-2707eaa85cca)
 
 Welcome to the React ToDo App, a simple and intuitive task management application built using React. This application serves as a practical example for learning and understanding React's fundamental concepts, with a specific focus on leveraging three essential hooks: **useState**, **useRef**, and **useEffect**.
